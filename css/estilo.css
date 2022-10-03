@@ -19,6 +19,7 @@ body {
     margin: 0 auto;
     min-width: 740px;
     max-width: 1180px;
+    height: 100%;
 }
 
 
@@ -154,6 +155,7 @@ ul#navegacao a:hover {
 }
 
 #rodape {
+    border: sol;
     clear: both;
     padding: 16px;
     background: #fff url(../imagens/bg-rodape.png) repeat-x top;
